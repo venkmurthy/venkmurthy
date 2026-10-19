@@ -1,4 +1,4 @@
-<img src="header.png" alt="Venk Murthy, MD, PhD — University of Michigan, Cardiovascular Medicine" width="100%">
+<img src="header.png" alt="Finding disease that standard tests miss. Cardiac PET &amp; coronary flow · Multiomics · AI for imaging &amp; ECG" width="100%">
 
 Cardiologist and physician-scientist at the University of Michigan. My lab builds quantitative
 and AI methods that pull diagnostic information out of cardiac imaging, the ECG, and multiomic
