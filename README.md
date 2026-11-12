@@ -5,7 +5,7 @@ and AI methods that pull diagnostic information out of cardiac imaging, the ECG,
 data, to find disease that standard tests miss.
 
 - Melvyn Rubenfire Professor of Preventive Cardiology · Professor of Internal Medicine and Radiology
-- Associate Chief of Cardiology for Translational Research and Innovation · Director of Nuclear Cardiology
+- Associate Chief of Cardiology for Translational Research and Innovation
 - Management Committee, [Michigan Institute for Data & AI in Society](https://midas.umich.edu/directory/venkatesh-murthy/)
 - Member, [U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf/current-members/venkatesh-l-murthy-md-phd)<br>
   <sub><i>The views expressed in here are solely those of the author and do not necessarily represent the views of the USPSTF or the Federal Government.</i></sub>
